@@ -1,9 +1,18 @@
 ---
 title: "Kent Russel Maramba"
-image: media/IMG_3727_.jpeg
+image: media/img_3727_.jpeg
 toc: false
-about:
+about: 
   template: trestles
+  image-width: 10em
+  image-shape: rectangle
+  links:
+    - icon: github
+      href: https://kentmaramba18.github.io
+      target: blank 
+    - text: Email
+      icon: envelope
+      href: mailto:kentrussel.maramba@student.chaminade.edu
 ---
 
 This is a Quarto website.

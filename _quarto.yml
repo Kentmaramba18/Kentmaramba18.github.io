@@ -12,7 +12,7 @@ website:
 
 format:
   html:
-    theme:
+    theme: LUX
       - cosmo
       - brand
     css: styles.css
