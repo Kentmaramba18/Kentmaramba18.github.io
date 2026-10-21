@@ -1,5 +1,9 @@
 ---
-title: "Kentmaramba18.github.io"
+title: "Kent Russel Maramba"
+image: media/IMG_3727_.jpeg
+toc: false
+about:
+  template: trestles
 ---
 
 This is a Quarto website.
