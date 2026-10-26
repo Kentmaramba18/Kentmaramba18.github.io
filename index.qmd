@@ -1,10 +1,10 @@
 ---
 title: "Kent Russel Maramba"
-image: media/img_3727_.jpeg
+image:  media/img_3727_.jpeg
 toc: false
 about: 
   template: trestles
-  image-width: 10em
+  image-width: 20em
   image-shape: rectangle
   links:
     - icon: github
@@ -15,7 +15,15 @@ about:
       href: mailto:kentrussel.maramba@student.chaminade.edu
 ---
 
-This is a Quarto website.
+# Chaminade University of Honolulu
+
+### Data Science x Business Administration 
+
+### 
+
+1.  this
+2.  is
+3.  an
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 

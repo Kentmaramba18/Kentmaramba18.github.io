@@ -3,18 +3,20 @@ project:
   output-dir: docs
 
 website:
-  title: "Kent Russel Maramba"
-  navbar:
+  #title: "Kent Russel Maramba"
+  navbar: 
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - icon: github
+        href: http://github.com/Kentmaramba18
+        target: blank
+      - resume.qmd
 
 format:
   html:
     theme: LUX
-      - cosmo
-      - brand
     css: styles.css
     toc: true
 
