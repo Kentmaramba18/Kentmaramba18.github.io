@@ -1,0 +1,13 @@
+---
+title: "Resume"
+resources: 
+  - media/_RESUME.pdf
+---
+
+Here's a snapshot of my academic, experiences and skills I've developed along the way.
+
+Feel free to explore my resume below!
+
+{{< pdf media/_RESUME.pdf width=100% height=800 >}}
+
+![](media%20/_RESUME.pdf)

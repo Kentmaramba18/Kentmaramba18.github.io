@@ -17,16 +17,12 @@ about:
 
 # Chaminade University of Honolulu
 
-### Data Science x Business Administration 
+### Data Science (B.S) 
+
+### Business Administration (Minor)
+
+# U.S Department of Defense Intern
+
+### U.S Army Pacific (USARPAC) \| G8 Financial Management & Data Fusion Team
 
 ### 
-
-1.  this
-2.  is
-3.  an
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```

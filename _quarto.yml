@@ -9,10 +9,10 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - resume.qmd
       - icon: github
         href: http://github.com/Kentmaramba18
         target: blank
-      - resume.qmd
 
 format:
   html:
